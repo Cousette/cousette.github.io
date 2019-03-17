@@ -7,6 +7,7 @@ Avec David on fait pleins de trucs
 
 ![Saphirre et Ruby](/images/Capture d’écran de 2019-02-02 01-26-11.png)
 
-Et puis on mange
+[Et puis on mange](https://www.seb.be/sites/default/files/recette/livre/Recettes%20Actifry%20FZ7001_0.pdf)
 
-<iframe src="https://www.seb.be/sites/default/files/recette/livre/Recettes%20Actifry%20FZ7001_0.pdf"/>
+
+
